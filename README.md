@@ -1,6 +1,6 @@
 # Useful Tools
 
-按使用场景分的 30 个好用开源工具，大部分都能在 GitHub 上找到。括号里是仓库地址。
+按使用场景分的 31 个好用开源工具，大部分都能在 GitHub 上找到。括号里是仓库地址。
 
 ## 日常效率（8 个）
 
@@ -40,18 +40,19 @@
 22. [Krita](https://github.com/KDE/krita) — 免费的绘画软件，学画画够用。
 23. [Blender](https://github.com/blender/blender) — 3D 建模。
 
-## 学习与编程（4 个）
+## 学习与编程（5 个）
 
 24. [GitHub Desktop](https://github.com/desktop/desktop) — 图形界面的 Git，给旧梦祷歌做版本管理最容易上手。
 25. [VS Code](https://github.com/microsoft/vscode) — 写代码、改配置文件、看 Markdown 都行。
 26. [hello-algo](https://github.com/krahets/hello-algo) — 中文的图解数据结构与算法，配动画，入门很好。
 27. [CyberChef](https://github.com/gchq/CyberChef) — 英国情报机构开源的数据处理工具，编码转换、解密、格式转换都能做，CTF 必备。
+28. [OpenCode](https://github.com/anomalyco/opencode) — 开源 MIT 的终端 AI 编程助手，不绑任何一家模型，能接 DeepSeek 等 75+ 家供应商和本地模型，支持装插件、自己改源码。
 
 ## 工控安全（3 个）
 
-28. [Wireshark](https://github.com/wireshark/wireshark) — 抓包分析，学 Modbus、S7 协议时离不开它。
-29. [DVWA](https://github.com/digininja/DVWA) — 故意留了漏洞的练习网站，计划半小时攻破一把。
-30. [OpenPLC](https://github.com/thiagoralves/OpenPLC_v3) — 开源的软 PLC，可以在电脑上搭工控仿真环境，正好接上阶段二。
+29. [Wireshark](https://github.com/wireshark/wireshark) — 抓包分析，学 Modbus、S7 协议时离不开它。
+30. [DVWA](https://github.com/digininja/DVWA) — 故意留了漏洞的练习网站，计划半小时攻破一把。
+31. [OpenPLC](https://github.com/thiagoralves/OpenPLC_v3) — 开源的软 PLC，可以在电脑上搭工控仿真环境，正好接上阶段二。
 
 ## 几个使用习惯
 

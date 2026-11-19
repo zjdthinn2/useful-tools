@@ -1,6 +1,6 @@
 # Useful Tools
 
-按使用场景分的 32 个好用开源工具，大部分都能在 GitHub 上找到。括号里是仓库地址。
+按使用场景分的 33 个好用开源工具，大部分都能在 GitHub 上找到。括号里是仓库地址。
 
 ## 日常效率（8 个）
 
@@ -48,15 +48,16 @@
 27. [CyberChef](https://github.com/gchq/CyberChef) — 英国情报机构开源的数据处理工具，编码转换、解密、格式转换都能做，CTF 必备。
 28. [OpenCode](https://github.com/anomalyco/opencode) — 开源 MIT 的终端 AI 编程助手，不绑任何一家模型，能接 DeepSeek 等 75+ 家供应商和本地模型，支持装插件、自己改源码。
 
-## 网络与代理（1 个）
+## 网络与代理（2 个）
 
 29. [v2rayN](https://github.com/2dust/v2rayN) — 开源代理客户端，Windows、Linux、macOS 图形界面，支持 Xray、sing-box 等内核；Windows 64 位下 v2rayN-windows-64-desktop.zip（Avalonia 界面，解压即用），最新版 7.25.6（2026-10-11）。
+30. [qBittorrent](https://github.com/qbittorrent/qBittorrent) — 开源免费无广告的 BT 下载客户端，Windows、Linux、macOS 都能用，支持磁力链、.torrent、RSS 订阅和搜索插件；Windows 64 位去官网 qbittorrent.org/download 下载，最新版 5.3.0（2026-10-19），默认 Qt6 + libtorrent 2.1.x，种子多、做种重的话选 lt12 版（libtorrent 1.2.x）。
 
 ## 工控安全（3 个）
 
-30. [Wireshark](https://github.com/wireshark/wireshark) — 抓包分析，学 Modbus、S7 协议时离不开它。
-31. [DVWA](https://github.com/digininja/DVWA) — 故意留了漏洞的练习网站，计划半小时攻破一把。
-32. [OpenPLC](https://github.com/thiagoralves/OpenPLC_v3) — 开源的软 PLC，可以在电脑上搭工控仿真环境，正好接上阶段二。
+31. [Wireshark](https://github.com/wireshark/wireshark) — 抓包分析，学 Modbus、S7 协议时离不开它。
+32. [DVWA](https://github.com/digininja/DVWA) — 故意留了漏洞的练习网站，计划半小时攻破一把。
+33. [OpenPLC](https://github.com/thiagoralves/OpenPLC_v3) — 开源的软 PLC，可以在电脑上搭工控仿真环境，正好接上阶段二。
 
 ## 几个使用习惯
 
